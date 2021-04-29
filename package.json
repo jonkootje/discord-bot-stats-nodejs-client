@@ -1,0 +1,19 @@
+{
+  "name": "discord-bot-stats-nodejs-client",
+  "version": "1.0.0",
+  "description": "NodeJS client that gives you the ability to get easy insights into your discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonkootje/discord-bot-stats-nodejs-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonkootje/discord-bot-stats-nodejs-client/issues"
+  },
+  "homepage": "https://github.com/jonkootje/discord-bot-stats-nodejs-client#readme"
+}
